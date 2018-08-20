@@ -3,7 +3,7 @@
     "username": "lpunerrx60y8w59g",
     "password": "bcf7jw0qd2adsn96",
     "database": "bxs2en4mf3uvlf2u",
-    "host": "localhost",
+    "host": "JAWSDB",
     "dialect": "mysql"
   },
   "test": {
