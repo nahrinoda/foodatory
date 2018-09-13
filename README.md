@@ -22,3 +22,14 @@ The API call was causing an issue, only when the app was deployed using Heroku. 
 ![API issue](https://github.com/nahrinoda/foodatory/blob/master/readmeimages/API%20issue.JPG)
 
 ---
+## Built With:
+
+* [Node.js](https://nodejs.org/en/download/) 
+* npm packages:
+	- express (used for routing)
+	- body-parser
+	- path
+* HTML/CSS
+* Javascript   
+
+### Still De-bugging this project!
